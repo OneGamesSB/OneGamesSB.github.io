@@ -73,8 +73,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:https://www.facebook.com/photo/?fbid=466607028812572&set=a.466606998812575
-
+avatar:https://scontent.fsvg1-1.fna.fbcdn.net/v/t39.30808-6/300388064_466607018812573_6646896486679233652_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=nFQhPLQEJwcAX99Loqy&_nc_ht=scontent.fsvg1-1.fna&oh=00_AfDCz7Pu4nS2Aq_6RPFwS5NviAKIM0yfL1BFKW-CtSGiJg&oe=65C8F419
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
 social_preview_image: # string, local or CORS resources
