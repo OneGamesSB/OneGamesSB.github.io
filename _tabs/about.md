@@ -15,3 +15,8 @@ Vi har alle vokst opp i Oslo-øst, og vi ser en tydelig sammenheng mellom den ø
 Vi mener at det er for lite initiativ fra eldre ungdom som har vokst opp fra dette miljøet, med arbeid som forebygger ungdomskriminalitet. Derfor vil OneGames gjennom støtte fra bydeler og investorer holde turneringer og arrangementer flere ganger i måneden.
 
 Vi har tidligere fått støtte fra blant annet Stovner bydel og Norges Fotballforbund, og klart å holde futsallturnering på Furuset forum, som skapte et stort engasjement for OneGames blant ungdommer.
+
+
+## Kontakt osss!
+
+Email: onegamesoslo@gmail.com
