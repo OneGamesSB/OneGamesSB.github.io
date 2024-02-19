@@ -1,8 +1,11 @@
 ---
-# the default layout is 'page'
+layout: page
+title: Om oss
+permalink: /about/
 icon: fas fa-info-circle
 order: 4
 ---
+
 
 ## Hvem er vi?
 
