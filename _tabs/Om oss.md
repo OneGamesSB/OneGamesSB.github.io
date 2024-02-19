@@ -21,9 +21,14 @@ Vi har tidligere fått støtte fra blant annet Stovner bydel og Norges Fotballfo
 
 
 
-## One Games Teamet 
-
 ## One Games Teamet
+
+<style>
+.team-member img {
+    width: 100px; /* Adjust as needed */
+    height: 100px; /* Adjust as needed */
+}
+</style>
 
 <div class="team">
     <div class="team-member">
@@ -42,6 +47,7 @@ Vi har tidligere fått støtte fra blant annet Stovner bydel og Norges Fotballfo
         <p>Fyr3 3</p>
     </div>
 </div>
+
 
 
 
