@@ -25,26 +25,26 @@ Vi har tidligere fått støtte fra blant annet Stovner bydel og Norges Fotballfo
 
 <style>
 .team-member img {
-    width: 100px; /* Adjust as needed */
-    height: 100px; /* Adjust as needed */
+    width: 200px; /* Adjust as needed */
+    height: 200px; /* Adjust as needed */
 }
 </style>
 
 <div class="team">
     <div class="team-member">
         <img src="https://pbs.twimg.com/media/GGry02nWAAA7q93?format=jpg&name=large" alt="Team Member 1">
-        <p>Vinnoch 1</p>
-        <p>Fyr1 1</p>
+        <p>Vinnoch</p>
+        <p>Fyr1</p>
     </div>
     <div class="team-member">
         <img src="https://pbs.twimg.com/media/GGryzAOWcAAE0Rv?format=jpg&name=small" alt="Team Member 2">
-        <p>Truc 2</p>
-        <p>Fyr2 2</p>
+        <p>Truc</p>
+        <p>Fyr2</p>
     </div>
     <div class="team-member">
         <img src="https://pbs.twimg.com/media/GGryxqcXYAATydV?format=jpg&name=small" alt="Team Member 3">
-        <p>Abdul 3</p>
-        <p>Fyr3 3</p>
+        <p>Abdul</p>
+        <p>Fyr3</p>
     </div>
 </div>
 
