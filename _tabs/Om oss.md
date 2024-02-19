@@ -20,6 +20,32 @@ Vi mener at det er for lite initiativ fra eldre ungdom som har vokst opp fra det
 Vi har tidligere fått støtte fra blant annet Stovner bydel og Norges Fotballforbund, og klart å holde futsallturnering på Furuset forum, som skapte et stort engasjement for OneGames blant ungdommer.
 
 
+
+## One Games Teamet 
+
+## One Games Teamet
+
+<div class="team">
+    <div class="team-member">
+        <img src="https://pbs.twimg.com/media/GGry02nWAAA7q93?format=jpg&name=large" alt="Team Member 1">
+        <p>Vinnoch 1</p>
+        <p>Fyr1 1</p>
+    </div>
+    <div class="team-member">
+        <img src="https://pbs.twimg.com/media/GGryzAOWcAAE0Rv?format=jpg&name=small" alt="Team Member 2">
+        <p>Truc 2</p>
+        <p>Fyr2 2</p>
+    </div>
+    <div class="team-member">
+        <img src="https://pbs.twimg.com/media/GGryxqcXYAATydV?format=jpg&name=small" alt="Team Member 3">
+        <p>Abdul 3</p>
+        <p>Fyr3 3</p>
+    </div>
+</div>
+
+
+
+
 ## Kontakt oss:
 
 Email: onegamesoslo@gmail.com
