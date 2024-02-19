@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Om oss
-permalink: /about/
+permalink: /om oss/
 icon: fas fa-info-circle
 order: 4
 ---
@@ -20,6 +20,6 @@ Vi mener at det er for lite initiativ fra eldre ungdom som har vokst opp fra det
 Vi har tidligere fått støtte fra blant annet Stovner bydel og Norges Fotballforbund, og klart å holde futsallturnering på Furuset forum, som skapte et stort engasjement for OneGames blant ungdommer.
 
 
-## Kontakt osss!
+## Kontakt oss:
 
 Email: onegamesoslo@gmail.com
